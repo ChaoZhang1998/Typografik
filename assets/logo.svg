@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 228 48">
+	<defs>
+		<style>
+			.cls-1{fill:#fff;}
+		</style>
+	</defs>
+	<title>
+		资源 2
+	</title>
+	<g id="图层_2" data-name="图层 2">
+		<g id="图层_1-2" data-name="图层 1">
+			<path class="cls-1" d="M15,24a9,9,0,0,0,16.11,5.5H48V48H0V0H48V18.5H31.11A9,9,0,0,0,15,24Z" />
+			<path class="cls-1" d="M108,0V48H89.5V31.11a9,9,0,0,0,0-14.22V0ZM60,48H78.5V31.11a9,9,0,0,1,0-14.22V0H60Z" />
+			<path class="cls-1" d="M168,0V48H153V24a9,9,0,1,0-11,8.78V48H120V0Z" />
+			<path class="cls-1" d="M180,0V48h48V0Zm24,33a9,9,0,1,1,9-9A9,9,0,0,1,204,33Z" />
+		</g>
+	</g>
+</svg>

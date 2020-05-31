@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="author" content="chaoZHANG">
+
+  <link rel="shortcut icon" href="assets/icon.png" type="image/x-icon">
+
+  <title>TYPOGRAFIK</title>
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+    }
+
+    .logo {
+      position: absolute;
+      bottom: 60px;
+      left: 25px;
+      margin-left: 10px;
+      margin-bottom: -40px;
+      opacity: 0.8;
+    }
+
+    .credits {
+      position: absolute;
+      bottom: 60px;
+      right: 15px;
+      margin-right: 10px;
+      margin-bottom: -40px;
+      color: #ffffff;
+      font-size: 12px;
+      text-align: right;
+      line-height: 20px;
+      opacity: 0.6;
+    }
+
+    @media only screen and (max-width: 768px) {
+      .credits {
+        visibility: hidden;
+      }
+    }
+  </style>
+
+  <script src="./assets/scripts/dat.gui.min.js"></script>
+  <script src="./assets/scripts/p5.min.js"></script>
+  <script src="./assets/scripts/CCapture.all.min.js"></script>
+  <script src="./assets/scripts/gif.worker.js"></script>
+</head>
+
+<body>
+
+  <div class="logo">
+    <img src="./assets/logo.svg" style="width: 120px">
+  </div>
+
+  <div class="credits">
+    <div>Created by @ZhangChao</div>
+    <div>©️All my products are allowed to be used in both personal
+      and commercial projects </div>
+  </div>
+
+  <script src="./assets/scripts/gui.js"></script>
+  <script src="./assets/scripts/sketch.js"></script>
+</body>
+
+</html>
